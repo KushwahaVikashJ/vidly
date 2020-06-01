@@ -1,0 +1,13 @@
+
+{"message":"Listening on port 3000....","level":"info"}
+{"message":"Connected to DB","level":"info"}
+{"message":"Listening on port 3000....","level":"info"}
+{"message":"Connected to DB","level":"info"}
+{"message":"Something wrong in start","level":"error"}
+{"message":"Connected to DB","level":"info"}
+{"message":"Json Private Key is not provided","level":"error"}
+{"message":"Connected to DB","level":"info"}
+{"message":"Something wrong in start","level":"error"}
+{"message":"Connected to DB","level":"info"}
+{"message":"Listening on port 3000....","level":"info"}
+{"message":"Connected to DB","level":"info"}
