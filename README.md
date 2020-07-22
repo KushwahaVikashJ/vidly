@@ -1,5 +1,5 @@
 # Vidly
 
--Vidly is a fictional movies rental web application.
+  - Vidly is a fictional movies rental web application.
 
--Built with Node.js, Express and MongoDB.
+  - Built with Node.js, Express and MongoDB.
